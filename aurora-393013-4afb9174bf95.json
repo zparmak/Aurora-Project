@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aurora-393013",
+  "private_key_id": "4afb9174bf95cf14db93eb62e5328c9dc7c6a9a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpwFGmgF/Quz8q\nlK3sbcFysC7DvDRyDo4v2UdNaZstIHFz4ZbhLy6IjS6oLlKBWyqwPMoaZ2vQ+YWI\nav8UqryntTb8+HVn11bkpQGY6clbi+VqY1zEhVejxLCtbdlxD2SdmJwseXDiQmRz\nHs7MtB+blalGW3sWbiTw87Drs7Ye7Oi6vZI1wa31DpjmyFT0rmJiMZVs5n4lWDhQ\nb39O8XUJ4AwIGWQpvWoGA2u+HMhqX8GKipmxnG4apV3qV0zwN9riML/8Mua5gpos\nnSTGv5NtDMIgfeEWV8SLuigZW35DvciG/QiDY7maZihLTlHVMskBiLA8mxfLhVEA\nRghbIvLzAgMBAAECggEAGfyT+LIuDjrJcep+m7NhCiktkjpwKZvP1ERmNX7QH37t\negjUJmyo1NpkL6FJG9N0kV6lA+4cOSAnJe9XVcxzgsBrsXC/LHfwrfe9awbd6VKy\nesXI+wQncANEQYXlDqQFdQOFY7ZC++hKZL3tI7UEImHYHv9nNFOv+mZxXwv3z/uY\nXLbrDruiUgruC3CQ6A+GPpr5wvg0EM29piP6oUdJSqDssoLivCtjzR0ZtZk/f7dI\nTORpRPxFye69F4k4OKSTmto2nvPiqRhFOLgXhkfzqS+h4i34GLa8/xlQ5eb8ggp5\nzSW+dfHZ3WcvSXxoObnfQXycOn2E0W9V4V4F9DgS/QKBgQDe1N+QZFI9XruAaWMm\nQUWvEhtasznDoBpADLDnprfRw32usaP39+QEpdrPoDGhXy5OkSWakanGk1E2PI6A\nnIw+YErFpifKy58PAto0rOmOt5Or4fN9W5Ggwer3wWT+hQonFQAjC3sTr9WtuEDG\n2215HgpXQQqlxaaJJ5+82bMf7wKBgQDDBMo7zMPkkz9st8t31v9T4hOXhDTUyyLM\n63sKMWCBdr+8teMhwQWT/Uo/vSL5qxVYykPRLmSqqXF2yO4P8a9JskKu6QEAdREp\nrKbVhUBb1bJeeQcL2NhFr7/R1Igil8+lsMlRGo//Mf7qqsYWelt1Xw8sE2g3KH7/\nWgYHIgoZPQKBgC4G6HrpzfbxN2ep3RoMx3kHE3Fjrd3Tlzh9ppji3ftNFwvbk5Pn\nt0iifZT/cOD1SRpfbtYDmn7y9QZv8bttGqbTuv4iePuxnZQ7MZlJ0iBxmOYbEPFm\n1ajQBVnRr6vHDTbPZqzWdUC2xDtS4MZykqU+6EHnpGxjbCfOcHdQvGgvAoGAZSWr\n2l42z+vLPpEJN+vL2+7q6HAKkr+VGiGcXEoF2sADbFYOKuiZAwuhIfPwGvwwAzBN\nAkaEsbtWfRxz1NMubhPF4EA7Y8hUEYBZu270VW09qSAulmdurJ4d6C/KN97zNOW/\nVJBpVRvSMlZGjUwC+ZpHHT4nlEwtqjU/4R03jaUCgYAIdelTl+cpvVDBjRwjIyqE\nPtv53Xy5JNujBUamG/ZQklKxRqfg4z4asNpu6FY9RMainae9XF3HFNJRsAqHcJqF\ntUx+rxLMo6sLfU5CyVPWu1sImRrzMwHAozUpAwo+G21KsD1B+B0Nipx+2fZcOtGD\nYI0xzVwNBp2/8BNNN5A7Sw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aurora@aurora-393013.iam.gserviceaccount.com",
+  "client_id": "109158481595944139592",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aurora%40aurora-393013.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
